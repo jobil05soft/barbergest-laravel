@@ -81,7 +81,7 @@ php artisan serve
 
 ## 🔐 Usuário Admin Padrão (Seed)
 
-* Email: [admin@barbergest.local]
+* Email: admin@barbergest.local
 * Senha: 12345678
 
 > Lembre-se de alterar a senha após o primeiro login.
@@ -96,5 +96,5 @@ Este projeto é de uso livre para fins educacionais e comerciais.
 
 ## 👤 Autor
 
-Desenvolvido por **[Jobil Manuel]**
+Desenvolvido por **Jobil Manuel**
 Projeto MVP com foco em soluções reais para pequenos negócios.
